@@ -1,0 +1,1 @@
+This application can take fundamental health information like height,weight and blood pressure and generate a basic health report to the user according to the given information.
